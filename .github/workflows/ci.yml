@@ -1,4 +1,4 @@
-name: Build and Deploy to Firebase
+name: CI for the Advent of Code
 
 on:
   push:

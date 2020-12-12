@@ -1,4 +1,4 @@
-export function getTreesOnPath(input: string[]): number {
+export function getTreesOnPath(input: string[], moveY: number, moveX: number): number {
 	const paths: string[][] = input.map((row) => row.split(''));
 	let [row, col, trees] = [0, 0, 0];
 	while (row < paths.length) {
@@ -6,8 +6,8 @@ export function getTreesOnPath(input: string[]): number {
 		if ('#' === paths[row][adjustedCol]) {
 			trees++;
 		}
-		row++;
-		col += 3;
+		row += moveY;
+		col += moveX;
 	}
 	return trees;
 }

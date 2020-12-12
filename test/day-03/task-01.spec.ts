@@ -15,13 +15,13 @@ describe('Part One', () => {
 			'#...##....#',
 			'.#..#...#.#',
 		];
-		const subjet: number = getTreesOnPath(input);
+		const subjet: number = getTreesOnPath(input, 1, 3);
 		expect(subjet).toBe(7);
 	});
 
 	it('should return 0 with input', () => {
 		const input: string[] = [];
-		const subjet: number = getTreesOnPath(input);
+		const subjet: number = getTreesOnPath(input, 1, 3);
 		expect(subjet).toBe(0);
 	});
 });
