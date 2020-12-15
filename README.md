@@ -1,4 +1,4 @@
-# ADVENT OF CODE 2020 🎄
+# ADVENT OF CODE 2020 🎄 ![CI for the Advent of Code](https://github.com/Llambi/advent-of-code-2020/workflows/CI%20for%20the%20Advent%20of%20Code/badge.svg)
 
 Here is my Typescript solution for Advent of Code 2020 by `@Llambi` <a href="https://twitter.com/HugoXF"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 
@@ -20,33 +20,33 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Progress
 
-| Day                                                                                                  | Part One | Part Two |
-| :--------------------------------------------------------------------------------------------------- | :------: | :------: |
-| ✔ [Day 1: Report Repair](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-1)       |   ⭐️    |   ⭐️    |
-| ✔ [Day 2: Password Philosophy](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-2) |   ⭐️    |   ⭐️    |
-| ✔ [Day 3: Toboggan Trajectory](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-3) |   ⭐️    |   ⭐️    |
-| ✔ [Day 4: Passport Processing](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-4) |   ⭐️    |   ⭐️    |
-| ✔ [Day 5: Binary Boarding](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-5)     |   ⭐️    |   ⭐️    |
-| ✔ [Day 6: Custom Customs](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-6)      |   ⭐️    |    ⏳    |
-| ✔ [Day 7: Handy Haversacks](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-7)    |    ⏳    |    ⏳    |
-| ✔ [Day 8: Handheld Halting](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-8)    |    ⏳    |    ⏳    |
-| ✔ [Day 9: Encoding Error](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-9)      |    ⏳    |    ⏳    |
-| ⏳ [Day 10: Adapter Array](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-10)    |    ⏳    |    ⏳    |
-| [Day 11: TBD]()                                                                                      |          |          |
-| [Day 12: TBD]()                                                                                      |          |          |
-| [Day 13: TBD]()                                                                                      |          |          |
-| [Day 14: TBD]()                                                                                      |          |          |
-| [Day 15: TBD]()                                                                                      |          |          |
-| [Day 16: TBD]()                                                                                      |          |          |
-| [Day 17: TBD]()                                                                                      |          |          |
-| [Day 18: TBD]()                                                                                      |          |          |
-| [Day 19: TBD]()                                                                                      |          |          |
-| [Day 20: TBD]()                                                                                      |          |          |
-| [Day 21: TBD]()                                                                                      |          |          |
-| [Day 22: TBD]()                                                                                      |          |          |
-| [Day 23: TBD]()                                                                                      |          |          |
-| [Day 24: TBD]()                                                                                      |          |          |
-| [Day 25: TBD]()                                                                                      |          |          |
+| Day                                                                                                | Part One | Part Two |
+| :------------------------------------------------------------------------------------------------- | :------: | :------: |
+| ✔ [Day 1: Report Repair](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-01)       |   ⭐️    |   ⭐️    |
+| ✔ [Day 2: Password Philosophy](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-02) |   ⭐️    |   ⭐️    |
+| ✔ [Day 3: Toboggan Trajectory](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-03) |   ⭐️    |   ⭐️    |
+| ✔ [Day 4: Passport Processing](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-04) |   ⭐️    |   ⭐️    |
+| ✔ [Day 5: Binary Boarding](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-05)     |   ⭐️    |   ⭐️    |
+| ✔ [Day 6: Custom Customs](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-06)      |   ⭐️    |   ⭐️    |
+| ✔ [Day 7: Handy Haversacks](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-07)    |    ⏳    |    ⏳    |
+| ✔ [Day 8: Handheld Halting](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-08)    |    ⏳    |    ⏳    |
+| ✔ [Day 9: Encoding Error](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-09)      |    ⏳    |    ⏳    |
+| ⏳ [Day 10: Adapter Array](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-10)     |    ⏳    |    ⏳    |
+| [Day 11: TBD]()                                                                                    |          |          |
+| [Day 12: TBD]()                                                                                    |          |          |
+| [Day 13: TBD]()                                                                                    |          |          |
+| [Day 14: TBD]()                                                                                    |          |          |
+| [Day 15: TBD]()                                                                                    |          |          |
+| [Day 16: TBD]()                                                                                    |          |          |
+| [Day 17: TBD]()                                                                                    |          |          |
+| [Day 18: TBD]()                                                                                    |          |          |
+| [Day 19: TBD]()                                                                                    |          |          |
+| [Day 20: TBD]()                                                                                    |          |          |
+| [Day 21: TBD]()                                                                                    |          |          |
+| [Day 22: TBD]()                                                                                    |          |          |
+| [Day 23: TBD]()                                                                                    |          |          |
+| [Day 24: TBD]()                                                                                    |          |          |
+| [Day 25: TBD]()                                                                                    |          |          |
 
 ## Tests
 
