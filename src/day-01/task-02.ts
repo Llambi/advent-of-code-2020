@@ -9,9 +9,9 @@ export function get2020Multiplication(input: number[]): number {
 							const z = input.find((z) => z === leftTo2020);
 							return z ? z * y : -1;
 						})
-						.find((result) => -1 !== result) ?? -1;
+						.find((result) => -1 !== result) || -1;
 				return -1 === y ? -1 : x * y;
 			})
-			.find((result) => -1 !== result) ?? -1
+			.find((result) => -1 !== result) || -1
 	);
 }

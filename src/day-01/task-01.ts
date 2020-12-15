@@ -6,5 +6,5 @@ export function get2020Multiplication(input: number[]): number {
 			return y ? y * x : -1;
 		})
 		.find((result) => -1 !== result);
-	return result ?? -1;
+	return result || -1;
 }
