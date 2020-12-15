@@ -27,7 +27,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 3: Toboggan Trajectory](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-3) |   ⭐️    |   ⭐️    |
 | ✔ [Day 4: Passport Processing](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-4) |   ⭐️    |   ⭐️    |
 | ✔ [Day 5: Binary Boarding](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-5)     |   ⭐️    |   ⭐️    |
-| ✔ [Day 6: Custom Customs](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-6)      |    ⏳    |    ⏳    |
+| ✔ [Day 6: Custom Customs](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-6)      |   ⭐️    |    ⏳    |
 | ✔ [Day 7: Handy Haversacks](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-7)    |    ⏳    |    ⏳    |
 | ✔ [Day 8: Handheld Halting](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-8)    |    ⏳    |    ⏳    |
 | ✔ [Day 9: Encoding Error](https://github.com/adriennetacke/advent-of-code-2020/tree/main/day-9)      |    ⏳    |    ⏳    |
