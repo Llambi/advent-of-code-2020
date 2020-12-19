@@ -29,7 +29,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 5: Binary Boarding](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-05)     |   ⭐️    |   ⭐️    |
 | ✔ [Day 6: Custom Customs](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-06)      |   ⭐️    |   ⭐️    |
 | ✔ [Day 7: Handy Haversacks](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-07)    |   ⭐️    |    ⏳    |
-| ✔ [Day 8: Handheld Halting](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-08)    |    ⏳    |    ⏳    |
+| ✔ [Day 8: Handheld Halting](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-08)    |   ⭐️    |    ⏳    |
 | ✔ [Day 9: Encoding Error](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-09)      |    ⏳    |    ⏳    |
 | ⏳ [Day 10: Adapter Array](https://github.com/Llambi/advent-of-code-2020/tree/main/src/day-10)     |    ⏳    |    ⏳    |
 | [Day 11: TBD]()                                                                                    |          |          |
