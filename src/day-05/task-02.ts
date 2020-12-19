@@ -1,4 +1,4 @@
-import { ceil, max } from 'mathjs';
+import { ceil } from 'mathjs';
 
 export function getHighestSeat(input: string[]): number {
 	const passes = input
